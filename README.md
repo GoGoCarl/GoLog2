@@ -1,8 +1,8 @@
-Time Stash
+GoLog2
 =======
 *Saves your time, saves you time.*
 
-Time Stash (working name) is a mobile application framework designed to
+GoLog2 is a mobile application framework designed to
 make time-logging fast and easy for any time-tracking system.
 
 The framework provides a front-end fitting almost any time-tracking
